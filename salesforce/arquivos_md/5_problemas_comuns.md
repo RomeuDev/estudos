@@ -1,3 +1,5 @@
+## 5 Problemas comuns ao lidar com Salesforce
+
 ### Lidar com o Salesforce pode apresentar uma série de desafios, desde questões técnicas até problemas de gerenciamento e adoção. Aqui estão alguns dos problemas mais comuns:
 
 **1. Complexidade da Plataforma:**
