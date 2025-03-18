@@ -29,7 +29,7 @@ Atualmente, a Salesforce é líder mundial no mercado de CRM, com milhões de cl
 
 * A empresa tem se destacado no uso de inteligência artificial, através do Salesforce Einstein, que fornece insights preditivos e recomendações personalizadas.
 * A Salesforce tem investido em soluções para diversos setores, como saúde, finanças e varejo, adaptando sua plataforma para atender às necessidades específicas de cada setor.
-* O Salesforce continua a ser uma força motriz na transformação digital das empresas, ajudando-as a se conectar com seus clientes de forma mais eficaz e a impulsionar o crescimento de seus negócios.
+* O Salesforce continua a ser uma força motriz na transformação digital das empresas, ajudando-as a se conectar com seus clientes de forma mais eficaz e a impuionar o crescimento de seus negócios.
 
 **Em resumo:**
 

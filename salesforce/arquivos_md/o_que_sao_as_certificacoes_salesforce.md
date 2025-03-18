@@ -1,6 +1,6 @@
 # CERTIFICAÇÕES SALES FORCE
 
-### As certificações Salesforce são credenciais reconhecidas globalmente que validam suas habilidades e conhecimentos na plataforma Salesforce. Elas podem impulsionar sua carreira e abrir portas para novas oportunidades. Separei aqui algumas das certificações mais populares:
+### As certificações Salesforce são credenciais reconhecidas globalmente que validam suas habilidades e conhecimentos na plataforma Salesforce. Elas podem impuionar sua carreira e abrir portas para novas oportunidades. Separei aqui algumas das certificações mais populares:
 
 **1. Salesforce Administrator:**
 - Foco: Esta certificação valida suas habilidades em configurar e gerenciar o Salesforce, incluindo a criação de usuários, personalização de layouts de página, gerenciamento de segurança e automação de processos.
